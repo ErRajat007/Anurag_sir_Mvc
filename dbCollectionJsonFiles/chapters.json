@@ -1,0 +1,165 @@
+[{
+  "_id": {
+    "$oid": "610277396205042ba084027f"
+  },
+  "lectures": [
+    {
+      "$oid": "610277636205042ba0840284"
+    }
+  ],
+  "chapterTitle": "Introduction",
+  "courseId": {
+    "$oid": "60ffe686c2b1462fb4832cd1"
+  },
+  "createdAt": {
+    "$date": "2021-07-29T09:39:05.794Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T09:39:47.950Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "611e49371507ec378856db31"
+  },
+  "lectures": [
+    {
+      "$oid": "611e5184ebf6931a4406fc0a"
+    },
+    {
+      "$oid": "611f5857b80cfd4164f589e3"
+    }
+  ],
+  "chapterTitle": "my learning",
+  "courseId": {
+    "$oid": "611ddd9a67b2651520388df1"
+  },
+  "createdAt": {
+    "$date": "2021-08-19T12:06:15.201Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-20T07:23:03.231Z"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "611e4c9b8558213dd8012384"
+  },
+  "lectures": [
+    {
+      "$oid": "6123309b1ad37b1d8868bf3e"
+    },
+    {
+      "$oid": "612330b41ad37b1d8868bf46"
+    }
+  ],
+  "chapterTitle": "title",
+  "courseId": {
+    "$oid": "611e4bf88558213dd801235a"
+  },
+  "createdAt": {
+    "$date": "2021-08-19T12:20:43.246Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-23T05:23:01.036Z"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "611f595db80cfd4164f589f9"
+  },
+  "lectures": [
+    {
+      "$oid": "611f59d294683a00f41e12c3"
+    },
+    {
+      "$oid": "611f5a83e646fa4548400f03"
+    },
+    {
+      "$oid": "611f5ab3e646fa4548400f0b"
+    }
+  ],
+  "chapterTitle": "Chapter 2",
+  "courseId": {
+    "$oid": "611ddd9a67b2651520388df1"
+  },
+  "createdAt": {
+    "$date": "2021-08-20T07:27:25.919Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-20T07:33:07.709Z"
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "611f596eb80cfd4164f58a00"
+  },
+  "lectures": [
+    {
+      "$oid": "611f5b06e646fa4548400f20"
+    },
+    {
+      "$oid": "611f5b4cd8735c3fccb7c7f4"
+    }
+  ],
+  "chapterTitle": "Chapter 3",
+  "courseId": {
+    "$oid": "611ddd9a67b2651520388df1"
+  },
+  "createdAt": {
+    "$date": "2021-08-20T07:27:42.055Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-20T07:35:40.167Z"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "612330c91ad37b1d8868bf67"
+  },
+  "lectures": [
+    {
+      "$oid": "612330f91ad37b1d8868bf80"
+    },
+    {
+      "$oid": "6123310e1ad37b1d8868bf88"
+    }
+  ],
+  "chapterTitle": "chapter 2",
+  "courseId": {
+    "$oid": "611e4bf88558213dd801235a"
+  },
+  "createdAt": {
+    "$date": "2021-08-23T05:23:21.204Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-23T05:24:30.195Z"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "612330d31ad37b1d8868bf6e"
+  },
+  "lectures": [
+    {
+      "$oid": "612331451ad37b1d8868bf9c"
+    },
+    {
+      "$oid": "612331571ad37b1d8868bfa4"
+    },
+    {
+      "$oid": "612331671ad37b1d8868bfac"
+    }
+  ],
+  "chapterTitle": "chapter 3",
+  "courseId": {
+    "$oid": "611e4bf88558213dd801235a"
+  },
+  "createdAt": {
+    "$date": "2021-08-23T05:23:31.181Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-23T05:25:59.780Z"
+  },
+  "__v": 3
+}]

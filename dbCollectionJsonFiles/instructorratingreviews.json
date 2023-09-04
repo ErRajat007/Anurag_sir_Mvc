@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "6103cc1cc90db81ea462a256"
+  },
+  "student": {
+    "$oid": "60f91fd99f6ec416ec10a071"
+  },
+  "instructor": {
+    "$oid": "60f94652fee34c36b4a52244"
+  },
+  "createdAt": {
+    "$date": "2021-07-30T09:53:32.873Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-30T10:38:08.134Z"
+  },
+  "__v": 0,
+  "rating": 5,
+  "review": "Test review"
+}]

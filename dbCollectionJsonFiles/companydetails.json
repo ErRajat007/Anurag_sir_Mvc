@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "610a870961231a1d58920163"
+  },
+  "admin": {
+    "$oid": "60f91d930b3382366048d683"
+  },
+  "address": "IT Park indore",
+  "country": "India",
+  "createdAt": {
+    "$date": "2021-08-04T12:24:41.252Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-04T12:24:41.252Z"
+  },
+  "__v": 0,
+  "image": "http://ngrok:3000/1628080033608-cross.png"
+},{
+  "_id": {
+    "$oid": "610a87a1f87c6d193c2d9a25"
+  },
+  "image": "http://ngrok:3000/1628080033608-cross.png",
+  "admin": {
+    "$oid": "60f91d930b3382366048d683"
+  },
+  "address": "IT Park indore",
+  "country": "India",
+  "createdAt": {
+    "$date": "2021-08-04T12:27:13.638Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-04T12:27:13.638Z"
+  },
+  "__v": 0
+}]

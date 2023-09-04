@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "60f930b81868ca28705a5265"
+  },
+  "categoryName": "Development",
+  "createdAt": {
+    "$date": "2021-07-22T08:47:52.272Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-23T10:30:28.666Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610123486d57cb526417dee0"
+  },
+  "categoryName": "Design",
+  "createdAt": {
+    "$date": "2021-07-28T09:28:40.460Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-28T09:28:40.460Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61022faf41ebee261c3e7f79"
+  },
+  "categoryName": "Marketing",
+  "createdAt": {
+    "$date": "2021-07-29T04:33:51.222Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T04:33:51.222Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61022fca41ebee261c3e7f7d"
+  },
+  "categoryName": "LifeStyle",
+  "createdAt": {
+    "$date": "2021-07-29T04:34:18.617Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T04:34:18.617Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61022fdd41ebee261c3e7f81"
+  },
+  "categoryName": "Music",
+  "createdAt": {
+    "$date": "2021-07-29T04:34:37.084Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T04:34:37.084Z"
+  },
+  "__v": 0
+}]

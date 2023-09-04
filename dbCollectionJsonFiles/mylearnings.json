@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "611f693de40b1b06288e70b8"
+  },
+  "student": {
+    "$oid": "60f91fd99f6ec416ec10a071"
+  },
+  "instructor": {
+    "$oid": "60f94652fee34c36b4a52244"
+  },
+  "course": {
+    "$oid": "611ddd9a67b2651520388df1"
+  },
+  "createdAt": {
+    "$date": "2021-08-20T08:35:09.631Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-20T08:35:09.631Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,151 @@
+[{
+  "_id": {
+    "$oid": "60f9512be1d68b370cbf757c"
+  },
+  "categoryId": {
+    "$oid": "60f930b81868ca28705a5265"
+  },
+  "subCategoryName": "Mobile Development",
+  "createdAt": {
+    "$date": "2021-07-22T11:06:19.567Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-23T10:53:32.834Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f95139e1d68b370cbf7581"
+  },
+  "categoryId": {
+    "$oid": "60f930b81868ca28705a5265"
+  },
+  "subCategoryName": "web development",
+  "createdAt": {
+    "$date": "2021-07-22T11:06:33.203Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-22T11:06:33.203Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6102305341ebee261c3e7f86"
+  },
+  "categoryId": {
+    "$oid": "610123486d57cb526417dee0"
+  },
+  "subCategoryName": "Web-Design",
+  "createdAt": {
+    "$date": "2021-07-29T04:36:35.386Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T04:36:35.386Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6102305b41ebee261c3e7f8b"
+  },
+  "categoryId": {
+    "$oid": "610123486d57cb526417dee0"
+  },
+  "subCategoryName": "Game-Design",
+  "createdAt": {
+    "$date": "2021-07-29T04:36:43.813Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T04:36:43.813Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6102308841ebee261c3e7f90"
+  },
+  "categoryId": {
+    "$oid": "61022faf41ebee261c3e7f79"
+  },
+  "subCategoryName": "Digital-Marketing",
+  "createdAt": {
+    "$date": "2021-07-29T04:37:28.623Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T04:37:28.623Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6102309741ebee261c3e7f95"
+  },
+  "categoryId": {
+    "$oid": "61022faf41ebee261c3e7f79"
+  },
+  "subCategoryName": "Social-Media-Marketing",
+  "createdAt": {
+    "$date": "2021-07-29T04:37:43.302Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T04:37:43.302Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610230bd41ebee261c3e7f9a"
+  },
+  "categoryId": {
+    "$oid": "61022fca41ebee261c3e7f7d"
+  },
+  "subCategoryName": "Art and craft",
+  "createdAt": {
+    "$date": "2021-07-29T04:38:21.781Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T04:38:21.781Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610230c941ebee261c3e7f9f"
+  },
+  "categoryId": {
+    "$oid": "61022fca41ebee261c3e7f7d"
+  },
+  "subCategoryName": "Beauty and makeup",
+  "createdAt": {
+    "$date": "2021-07-29T04:38:33.504Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T04:38:33.504Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610230ea41ebee261c3e7fa7"
+  },
+  "categoryId": {
+    "$oid": "61022fdd41ebee261c3e7f81"
+  },
+  "subCategoryName": "Music Techniques",
+  "createdAt": {
+    "$date": "2021-07-29T04:39:06.309Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T04:39:06.309Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610230f241ebee261c3e7fac"
+  },
+  "categoryId": {
+    "$oid": "61022fdd41ebee261c3e7f81"
+  },
+  "subCategoryName": "Music Software",
+  "createdAt": {
+    "$date": "2021-07-29T04:39:14.227Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T04:39:14.227Z"
+  },
+  "__v": 0
+}]

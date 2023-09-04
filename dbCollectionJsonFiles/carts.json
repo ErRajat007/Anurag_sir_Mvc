@@ -1,0 +1,204 @@
+[{
+  "_id": {
+    "$oid": "61093d03f89ea80ff8308789"
+  },
+  "isPurchased": false,
+  "paymentId": "",
+  "currency": "",
+  "amountPaid": "",
+  "amountDue": "",
+  "receipt": "",
+  "orderId": "",
+  "isRefund": false,
+  "userId": {
+    "$oid": "60f91fd99f6ec416ec10a071"
+  },
+  "courseId": {
+    "$oid": "60ffe7b97d96c804282189b5"
+  },
+  "createdAt": {
+    "$date": "2021-08-03T12:56:35.575Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-03T12:56:35.575Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61093d1df89ea80ff830878c"
+  },
+  "isPurchased": true,
+  "paymentId": "",
+  "currency": "",
+  "amountPaid": "",
+  "amountDue": "",
+  "receipt": "",
+  "orderId": "",
+  "isRefund": false,
+  "userId": {
+    "$oid": "60f91fd99f6ec416ec10a071"
+  },
+  "courseId": {
+    "$oid": "60ffe6c4f8818e33dc2ad85d"
+  },
+  "createdAt": {
+    "$date": "2021-08-03T12:57:01.272Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-12T11:42:39.992Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61093d1df89ea80ff830878e"
+  },
+  "isPurchased": false,
+  "paymentId": "",
+  "currency": "",
+  "amountPaid": "",
+  "amountDue": "",
+  "receipt": "",
+  "orderId": "",
+  "isRefund": false,
+  "userId": {
+    "$oid": "60f91fd99f6ec416ec10a071"
+  },
+  "courseId": {
+    "$oid": "60ffe7b97d96c804282189b5"
+  },
+  "createdAt": {
+    "$date": "2021-08-03T12:57:01.277Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-03T12:57:01.277Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610a17bad0975b5ae4f2ee4a"
+  },
+  "isPurchased": false,
+  "paymentId": "",
+  "currency": "",
+  "amountPaid": "",
+  "amountDue": "",
+  "receipt": "",
+  "orderId": "",
+  "isRefund": false,
+  "userId": {
+    "$oid": "60f91fd99f6ec416ec10a071"
+  },
+  "courseId": {
+    "$oid": "60ffe6c4f8818e33dc2ad85d"
+  },
+  "createdAt": {
+    "$date": "2021-08-04T04:29:46.080Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-04T04:29:46.080Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610a17bad0975b5ae4f2ee4c"
+  },
+  "isPurchased": false,
+  "paymentId": "",
+  "currency": "",
+  "amountPaid": "",
+  "amountDue": "",
+  "receipt": "",
+  "orderId": "",
+  "isRefund": false,
+  "userId": {
+    "$oid": "60f91fd99f6ec416ec10a071"
+  },
+  "courseId": {
+    "$oid": "60ffe7b97d96c804282189b5"
+  },
+  "createdAt": {
+    "$date": "2021-08-04T04:29:46.091Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-04T04:29:46.091Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6114e8027e9b8e4808d0348a"
+  },
+  "isPurchased": false,
+  "paymentId": "",
+  "currency": "INR",
+  "amountPaid": "0",
+  "amountDue": "800000",
+  "receipt": "SyYTKX2Dg",
+  "orderId": "order_HoWmsZwTfAzLiH",
+  "isRefund": false,
+  "userId": {
+    "$oid": "60f94652fee34c36b4a52244"
+  },
+  "courseId": {
+    "$oid": "60ffe6c4f8818e33dc2ad85d"
+  },
+  "createdAt": {
+    "$date": "2021-08-12T09:21:06.896Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-23T05:42:24.843Z"
+  },
+  "__v": 0,
+  "amount": 800000
+},{
+  "_id": {
+    "$oid": "6114e87d7e9b8e4808d034c5"
+  },
+  "isPurchased": false,
+  "paymentId": "",
+  "currency": "INR",
+  "amountPaid": "0",
+  "amountDue": "800000",
+  "receipt": "SyYTKX2Dg",
+  "orderId": "order_HoWmsZwTfAzLiH",
+  "isRefund": false,
+  "userId": {
+    "$oid": "60f94652fee34c36b4a52244"
+  },
+  "courseId": {
+    "$oid": "60ffe686c2b1462fb4832cd1"
+  },
+  "createdAt": {
+    "$date": "2021-08-12T09:23:09.896Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-23T05:42:24.843Z"
+  },
+  "__v": 0,
+  "amount": 800000
+},{
+  "_id": {
+    "$oid": "611f6901e40b1b06288e70a5"
+  },
+  "isPurchased": true,
+  "paymentId": "",
+  "currency": "INR",
+  "amountPaid": "0",
+  "amountDue": "565600",
+  "receipt": "7ZcEGqwi3",
+  "orderId": "order_HnO72tGaq9sKps",
+  "isRefund": false,
+  "userId": {
+    "$oid": "611f68f6e40b1b06288e7090"
+  },
+  "courseId": {
+    "$oid": "611ddd9a67b2651520388df1"
+  },
+  "createdAt": {
+    "$date": "2021-08-20T08:34:09.639Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-20T08:35:09.575Z"
+  },
+  "__v": 0,
+  "amount": 565600
+}]

@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "610bc110673c2d48b018d2cd"
+  },
+  "admin": {
+    "$oid": "60f91fd99f6ec416ec10a071"
+  },
+  "title": "Terms of Use",
+  "description": "E-learning mission is to improve lives through learning. We enable anyone anywhere to create and share educational content (instructors) and to access that educational content to learn (students). We consider our marketplace model the best way to offer valuable educational content to our users.",
+  "createdAt": {
+    "$date": "2021-08-05T10:44:32.524Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-05T11:04:11.192Z"
+  },
+  "__v": 0
+}]

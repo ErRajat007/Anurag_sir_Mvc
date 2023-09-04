@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "610bd9ef28ad5b26044d6a4e"
+  },
+  "question": "Test question",
+  "answer": "Test answer",
+  "createdAt": {
+    "$date": "2021-08-05T12:30:39.798Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-05T12:30:39.798Z"
+  },
+  "__v": 0
+}]

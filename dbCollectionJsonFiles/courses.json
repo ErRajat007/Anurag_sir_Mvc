@@ -1,0 +1,718 @@
+[{
+  "_id": {
+    "$oid": "60ffe686c2b1462fb4832cd1"
+  },
+  "duration": 0,
+  "userWhoHasBought": [],
+  "title": "Python course updated",
+  "categoryId": {
+    "$oid": "60f930b81868ca28705a5265"
+  },
+  "subCategoryId": {
+    "$oid": "60f9512be1d68b370cbf757c"
+  },
+  "sectionId": {
+    "$oid": "6102489498729219e428c88e"
+  },
+  "description": "learn how to write in python",
+  "price": 4000,
+  "createdBy": {
+    "$oid": "60f94652fee34c36b4a52244"
+  },
+  "qna": [],
+  "createdAt": {
+    "$date": "2021-07-27T10:57:10.404Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-26T07:35:02.424Z"
+  },
+  "__v": 9,
+  "chapters": [
+    {
+      "$oid": "610277396205042ba084027f"
+    },
+    {
+      "$oid": "611e33baae47e621140dd17e"
+    }
+  ],
+  "lectures": [
+    {
+      "$oid": "610277636205042ba0840284"
+    }
+  ],
+  "averageRating": 4,
+  "totalReview": 1,
+  "imageFile": "http://205ba1138c6a.ngrok.io/1629437376218-defult-course-image.jpg",
+  "videoFile": "http://205ba1138c6a.ngrok.io/1629437377194-file_example_MP4_640_3MG.mp4",
+  "totalStudent": 16,
+  "allowPermission": "Pending",
+  "rejectReason": "Video quality not good"
+},{
+  "_id": {
+    "$oid": "60ffe6c4f8818e33dc2ad85d"
+  },
+  "duration": 0,
+  "userWhoHasBought": [],
+  "title": "Python course",
+  "categoryId": {
+    "$oid": "60f930b81868ca28705a5265"
+  },
+  "subCategoryId": {
+    "$oid": "60f9512be1d68b370cbf757c"
+  },
+  "sectionId": {
+    "$oid": "60ffab308a7c2e112c1ddd28"
+  },
+  "description": "learn how to write in python",
+  "price": "4000",
+  "createdBy": {
+    "$oid": "60f91fd99f6ec416ec10a071"
+  },
+  "qna": [],
+  "createdAt": {
+    "$date": "2021-07-27T10:58:12.046Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-26T08:54:38.848Z"
+  },
+  "__v": 1,
+  "imageFile": "http://ng:3000/1628227728630-blank-profile-picture-circle-hd.png",
+  "videoFile": "http://localhost:3000/1628227728630-file_example_MP4_1280_10MG.mp4",
+  "allowPermission": "Approved",
+  "chapters": [],
+  "lectures": [],
+  "totalReview": 0,
+  "totalStudent": 7
+},{
+  "_id": {
+    "$oid": "60ffe7b97d96c804282189b5"
+  },
+  "duration": 0,
+  "userWhoHasBought": [],
+  "title": "Python course",
+  "categoryId": {
+    "$oid": "60f930b81868ca28705a5265"
+  },
+  "subCategoryId": {
+    "$oid": "60f9512be1d68b370cbf757c"
+  },
+  "sectionId": {
+    "$oid": "60ffab308a7c2e112c1ddd28"
+  },
+  "description": "learn how to write in python",
+  "price": "4000",
+  "createdBy": {
+    "$oid": "60f91fd99f6ec416ec10a071"
+  },
+  "qna": [],
+  "createdAt": {
+    "$date": "2021-07-27T11:02:17.971Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-20T05:20:35.094Z"
+  },
+  "__v": 0,
+  "imageFile": "http://localhost:3000/1629436835069-cross.png",
+  "videoFile": "http://localhost:3000/1629436834999-file_example_MP4_1280_10MG.mp4",
+  "allowPermission": true
+},{
+  "_id": {
+    "$oid": "60ffe9012793d244f012153f"
+  },
+  "duration": 0,
+  "userWhoHasBought": [],
+  "title": "Python course",
+  "categoryId": {
+    "$oid": "60f930b81868ca28705a5265"
+  },
+  "subCategoryId": {
+    "$oid": "60f9512be1d68b370cbf757c"
+  },
+  "sectionId": {
+    "$oid": "60ffab308a7c2e112c1ddd28"
+  },
+  "description": "learn how to write in python",
+  "price": "4000",
+  "createdBy": {
+    "$oid": "60f91fd99f6ec416ec10a071"
+  },
+  "qna": [],
+  "createdAt": {
+    "$date": "2021-07-27T11:07:45.256Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-27T11:07:56.394Z"
+  },
+  "__v": 0,
+  "imageFile": "http://localhost:3000/1628227728630-blank-profile-picture-circle-hd.png",
+  "videoFile": "http://localhost:3000/1628227728630-file_example_MP4_1280_10MG.mp4",
+  "allowPermission": true
+},{
+  "_id": {
+    "$oid": "60ffe93334a87144b4328abd"
+  },
+  "duration": 0,
+  "userWhoHasBought": [],
+  "title": "Python course",
+  "categoryId": {
+    "$oid": "60f930b81868ca28705a5265"
+  },
+  "subCategoryId": {
+    "$oid": "60f9512be1d68b370cbf757c"
+  },
+  "sectionId": {
+    "$oid": "60ffab308a7c2e112c1ddd28"
+  },
+  "description": "learn how to write in python",
+  "price": "4000",
+  "createdBy": {
+    "$oid": "60f91fd99f6ec416ec10a071"
+  },
+  "qna": [],
+  "createdAt": {
+    "$date": "2021-07-27T11:08:35.866Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-27T11:13:10.764Z"
+  },
+  "__v": 0,
+  "imageFile": "http://localhost:3000/1628227728630-blank-profile-picture-circle-hd.png",
+  "videoFile": "http://localhost:3000/1628227728630-file_example_MP4_1280_10MG.mp4",
+  "allowPermission": true
+},{
+  "_id": {
+    "$oid": "60ffec6d48540b09307c605b"
+  },
+  "duration": 0,
+  "userWhoHasBought": [],
+  "title": "Python course",
+  "categoryId": {
+    "$oid": "60f930b81868ca28705a5265"
+  },
+  "subCategoryId": {
+    "$oid": "60f9512be1d68b370cbf757c"
+  },
+  "sectionId": {
+    "$oid": "60ffab308a7c2e112c1ddd28"
+  },
+  "description": "learn how to write in python",
+  "price": "4000",
+  "createdBy": {
+    "$oid": "60f91fd99f6ec416ec10a071"
+  },
+  "qna": [],
+  "createdAt": {
+    "$date": "2021-07-27T11:22:21.933Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-27T11:22:21.933Z"
+  },
+  "__v": 0,
+  "imageFile": "http://localhost:3000/1628227728630-blank-profile-picture-circle-hd.png",
+  "videoFile": "http://localhost:3000/1628227728630-file_example_MP4_1280_10MG.mp4",
+  "allowPermission": true
+},{
+  "_id": {
+    "$oid": "60ffecd2f566914e18ca22e8"
+  },
+  "duration": 0,
+  "userWhoHasBought": [],
+  "title": "Python course",
+  "categoryId": {
+    "$oid": "60f930b81868ca28705a5265"
+  },
+  "subCategoryId": {
+    "$oid": "60f9512be1d68b370cbf757c"
+  },
+  "sectionId": {
+    "$oid": "60ffab308a7c2e112c1ddd28"
+  },
+  "description": "learn how to write in python",
+  "price": "4000",
+  "createdBy": {
+    "$oid": "60f91fd99f6ec416ec10a071"
+  },
+  "qna": [],
+  "createdAt": {
+    "$date": "2021-07-27T11:24:02.425Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-27T11:25:27.329Z"
+  },
+  "__v": 0,
+  "imageFile": "http://localhost:3000/1628227728630-blank-profile-picture-circle-hd.png",
+  "videoFile": "http://localhost:3000/1628227728630-file_example_MP4_1280_10MG.mp4",
+  "allowPermission": true
+},{
+  "_id": {
+    "$oid": "60ffed6265fb2d55c447dbb0"
+  },
+  "duration": 0,
+  "userWhoHasBought": [],
+  "title": "Python course",
+  "categoryId": {
+    "$oid": "60f930b81868ca28705a5265"
+  },
+  "subCategoryId": {
+    "$oid": "60f9512be1d68b370cbf757c"
+  },
+  "sectionId": {
+    "$oid": "60ffab308a7c2e112c1ddd28"
+  },
+  "description": "learn how to write in python",
+  "price": "4000",
+  "createdBy": {
+    "$oid": "60f91fd99f6ec416ec10a071"
+  },
+  "qna": [],
+  "createdAt": {
+    "$date": "2021-07-27T11:26:26.764Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-27T11:26:37.727Z"
+  },
+  "__v": 0,
+  "imageFile": "http://localhost:3000/1628227728630-blank-profile-picture-circle-hd.png",
+  "videoFile": "http://localhost:3000/1628227728630-file_example_MP4_1280_10MG.mp4",
+  "allowPermission": "Approval Required!"
+},{
+  "_id": {
+    "$oid": "61038ab5a4e159500cc0bed2"
+  },
+  "price": 4000,
+  "duration": 0,
+  "userWhoHasBought": [],
+  "chapters": [],
+  "lectures": [],
+  "totalReview": 0,
+  "title": "Python course",
+  "categoryId": {
+    "$oid": "60f930b81868ca28705a5265"
+  },
+  "subCategoryId": {
+    "$oid": "60f9512be1d68b370cbf757c"
+  },
+  "sectionId": {
+    "$oid": "60ffab308a7c2e112c1ddd28"
+  },
+  "description": "learn how to write in python",
+  "createdBy": {
+    "$oid": "60f91fd99f6ec416ec10a071"
+  },
+  "qna": [],
+  "createdAt": {
+    "$date": "2021-07-30T05:14:29.150Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-25T10:25:32.135Z"
+  },
+  "__v": 0,
+  "imageFile": "http://localhost:3000/1628227728630-blank-profile-picture-circle-hd.png",
+  "videoFile": "http://localhost:3000/1628227728630-file_example_MP4_1280_10MG.mp4",
+  "allowPermission": "Pending"
+},{
+  "_id": {
+    "$oid": "610cc89082524956e0831610"
+  },
+  "price": 4000,
+  "duration": 0,
+  "userWhoHasBought": [],
+  "chapters": [],
+  "lectures": [],
+  "totalReview": 0,
+  "totalStudent": 0,
+  "title": "Python course",
+  "categoryId": {
+    "$oid": "60f930b81868ca28705a5265"
+  },
+  "subCategoryId": {
+    "$oid": "60f9512be1d68b370cbf757c"
+  },
+  "sectionId": {
+    "$oid": "60ffab308a7c2e112c1ddd28"
+  },
+  "description": "learn how to write in python",
+  "imageFile": "http://localhost:3000/1628227728630-blank-profile-picture-circle-hd.png",
+  "videoFile": "http://localhost:3000/1628227728630-file_example_MP4_1280_10MG.mp4",
+  "qna": [],
+  "createdAt": {
+    "$date": "2021-08-06T05:28:48.837Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-06T05:28:48.837Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610cde9fd0f4f2357c9938b6"
+  },
+  "price": 4000,
+  "duration": 0,
+  "userWhoHasBought": [],
+  "chapters": [],
+  "lectures": [],
+  "totalReview": 0,
+  "totalStudent": 0,
+  "title": "Python course",
+  "categoryId": {
+    "$oid": "60f930b81868ca28705a5265"
+  },
+  "subCategoryId": {
+    "$oid": "60f9512be1d68b370cbf757c"
+  },
+  "sectionId": {
+    "$oid": "60ffab308a7c2e112c1ddd28"
+  },
+  "description": "learn how to write in python",
+  "imageFile": "http://localhost:3000/1628233374916-blank-profile-picture-circle-hd.png",
+  "videoFile": "http://localhost:3000/1628233374918-SampleVideo_1280x720_1mb.mp4",
+  "qna": [],
+  "createdAt": {
+    "$date": "2021-08-06T07:02:55.293Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-06T07:02:55.293Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6113d242f4ef944d70128c26"
+  },
+  "price": 5000,
+  "duration": 0,
+  "userWhoHasBought": [],
+  "chapters": [
+    {
+      "$oid": "6113d370773f671110aecee9"
+    }
+  ],
+  "lectures": [
+    {
+      "$oid": "611e4e94452e770ed01ae580"
+    },
+    {
+      "$oid": "611e4ef26b76f648b0741466"
+    },
+    {
+      "$oid": "611e4f615630e02fa078741f"
+    },
+    {
+      "$oid": "611e5ee5ae8c5d34f07d79c0"
+    }
+  ],
+  "totalReview": 0,
+  "totalStudent": 2,
+  "allowPermission": true,
+  "title": "test course title",
+  "categoryId": {
+    "$oid": "60f930b81868ca28705a5265"
+  },
+  "subCategoryId": {
+    "$oid": "60f9512be1d68b370cbf757c"
+  },
+  "sectionId": {
+    "$oid": "60ffab308a7c2e112c1ddd28"
+  },
+  "description": "learn how to write in python",
+  "imageFile": "http://localhost:3000/1628688962036-blank-profile-picture-circle-hd.png",
+  "videoFile": "http://localhost:3000/1628688962049-SampleVideo_1280x720_1mb.mp4",
+  "qna": [],
+  "createdAt": {
+    "$date": "2021-08-11T13:36:02.427Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-19T13:38:45.401Z"
+  },
+  "__v": 5,
+  "rejectReason": ""
+},{
+  "_id": {
+    "$oid": "611d11b259ffa646b8d93b5c"
+  },
+  "price": 20,
+  "duration": 0,
+  "userWhoHasBought": [],
+  "chapters": [],
+  "lectures": [],
+  "totalReview": 0,
+  "totalStudent": 0,
+  "allowPermission": "Approval Required!",
+  "rejectReason": "",
+  "title": "title",
+  "categoryId": {
+    "$oid": "60f930b81868ca28705a5265"
+  },
+  "subCategoryId": {
+    "$oid": "60f9512be1d68b370cbf757c"
+  },
+  "sectionId": {
+    "$oid": "610248be98729219e428c894"
+  },
+  "description": "desc",
+  "imageFile": "http://6d11a79d94a3.ngrok.io/1629294818314-defult-course-image.jpg",
+  "videoFile": "http://6d11a79d94a3.ngrok.io/1629294845310-file_example_MP4_480_1_5MG.mp4",
+  "qna": [],
+  "createdAt": {
+    "$date": "2021-08-18T13:57:06.175Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-18T13:57:06.175Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "611d146659ffa646b8d93b6b"
+  },
+  "price": 20,
+  "duration": 0,
+  "userWhoHasBought": [],
+  "chapters": [],
+  "lectures": [],
+  "totalReview": 0,
+  "totalStudent": 0,
+  "allowPermission": "Approval Required!",
+  "rejectReason": "",
+  "title": "title",
+  "categoryId": {
+    "$oid": "60f930b81868ca28705a5265"
+  },
+  "subCategoryId": {
+    "$oid": "60f9512be1d68b370cbf757c"
+  },
+  "sectionId": {
+    "$oid": "610248be98729219e428c894"
+  },
+  "description": "description",
+  "imageFile": "http://6d11a79d94a3.ngrok.io/1629295578432-office.jpg",
+  "videoFile": "http://6d11a79d94a3.ngrok.io/1629295610531-file_example_MP4_480_1_5MG.mp4",
+  "qna": [],
+  "createdAt": {
+    "$date": "2021-08-18T14:08:38.805Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-18T14:08:38.805Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "611ddbe767b2651520388de1"
+  },
+  "price": 480,
+  "duration": 0,
+  "userWhoHasBought": [],
+  "chapters": [],
+  "lectures": [],
+  "totalReview": 0,
+  "totalStudent": 0,
+  "allowPermission": "Approval Required!",
+  "rejectReason": "",
+  "title": "Test course title",
+  "categoryId": {
+    "$oid": "60f930b81868ca28705a5265"
+  },
+  "subCategoryId": {
+    "$oid": "60f9512be1d68b370cbf757c"
+  },
+  "sectionId": {
+    "$oid": "60ffab308a7c2e112c1ddd28"
+  },
+  "description": "Test Description",
+  "imageFile": "http://localhost:3000/1629346791317-cross.png",
+  "videoFile": "http://localhost:3000/1629346791327-SampleVideo_1280x720_1mb.mp4",
+  "createdBy": {
+    "$oid": "60f91fd99f6ec416ec10a071"
+  },
+  "qna": [],
+  "createdAt": {
+    "$date": "2021-08-19T04:19:51.370Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-19T04:19:51.370Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "611ddd9a67b2651520388df1"
+  },
+  "price": 5656,
+  "duration": 0,
+  "userWhoHasBought": [],
+  "chapters": [
+    {
+      "$oid": "611e49271507ec378856db2a"
+    },
+    {
+      "$oid": "611e49371507ec378856db31"
+    },
+    {
+      "$oid": "611f595db80cfd4164f589f9"
+    },
+    {
+      "$oid": "611f596eb80cfd4164f58a00"
+    }
+  ],
+  "lectures": [
+    {
+      "$oid": "611e50f8ebf6931a4406fbe0"
+    },
+    {
+      "$oid": "611e5137ebf6931a4406fbe8"
+    },
+    {
+      "$oid": "611e5184ebf6931a4406fc0a"
+    },
+    {
+      "$oid": "611f5857b80cfd4164f589e3"
+    },
+    {
+      "$oid": "611f59d294683a00f41e12c3"
+    },
+    {
+      "$oid": "611f5a83e646fa4548400f03"
+    },
+    {
+      "$oid": "611f5ab3e646fa4548400f0b"
+    },
+    {
+      "$oid": "611f5b06e646fa4548400f20"
+    },
+    {
+      "$oid": "611f5b4cd8735c3fccb7c7f4"
+    }
+  ],
+  "totalReview": 0,
+  "totalStudent": 1,
+  "allowPermission": "Approved",
+  "rejectReason": "",
+  "title": "android develop",
+  "categoryId": {
+    "$oid": "60f930b81868ca28705a5265"
+  },
+  "subCategoryId": {
+    "$oid": "60f9512be1d68b370cbf757c"
+  },
+  "sectionId": {
+    "$oid": "6102489498729219e428c88e"
+  },
+  "description": "this is too good for android ",
+  "imageFile": "http://18df0dd69501.ngrok.io/1629347217228-defult-course-image.jpg",
+  "videoFile": "http://18df0dd69501.ngrok.io/1629347220890-file_example_MP4_480_1_5MG.mp4",
+  "createdBy": {
+    "$oid": "60f94652fee34c36b4a52244"
+  },
+  "qna": [],
+  "createdAt": {
+    "$date": "2021-08-19T04:27:06.850Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-20T09:27:05.154Z"
+  },
+  "__v": 13,
+  "averageRating": 5
+},{
+  "_id": {
+    "$oid": "611e4a2fe605a12c4099b7db"
+  },
+  "price": 480,
+  "duration": 0,
+  "userWhoHasBought": [],
+  "chapters": [],
+  "lectures": [],
+  "totalReview": 0,
+  "totalStudent": 0,
+  "allowPermission": "Approval Required!",
+  "rejectReason": "",
+  "title": "Test course title",
+  "categoryId": {
+    "$oid": "60f930b81868ca28705a5265"
+  },
+  "subCategoryId": {
+    "$oid": "60f9512be1d68b370cbf757c"
+  },
+  "sectionId": {
+    "$oid": "60ffab308a7c2e112c1ddd28"
+  },
+  "description": "Test Description",
+  "imageFile": "http://localhost:3000/1629375023647-cross.png",
+  "videoFile": "http://localhost:3000/1629375023652-file_example_MP4_1280_10MG.mp4",
+  "createdBy": {
+    "$oid": "60f91fd99f6ec416ec10a071"
+  },
+  "qna": [],
+  "createdAt": {
+    "$date": "2021-08-19T12:10:23.818Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-19T12:10:23.818Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "611e4bf88558213dd801235a"
+  },
+  "price": 5623,
+  "duration": 0,
+  "userWhoHasBought": [],
+  "chapters": [
+    {
+      "$oid": "611e4c9b8558213dd8012384"
+    },
+    {
+      "$oid": "612330c91ad37b1d8868bf67"
+    },
+    {
+      "$oid": "612330d31ad37b1d8868bf6e"
+    }
+  ],
+  "lectures": [
+    {
+      "$oid": "6123309b1ad37b1d8868bf3e"
+    },
+    {
+      "$oid": "612330b41ad37b1d8868bf46"
+    },
+    {
+      "$oid": "612330f91ad37b1d8868bf80"
+    },
+    {
+      "$oid": "6123310e1ad37b1d8868bf88"
+    },
+    {
+      "$oid": "612331451ad37b1d8868bf9c"
+    },
+    {
+      "$oid": "612331571ad37b1d8868bfa4"
+    },
+    {
+      "$oid": "612331671ad37b1d8868bfac"
+    }
+  ],
+  "totalReview": 0,
+  "totalStudent": 0,
+  "allowPermission": "Pending",
+  "rejectReason": "",
+  "title": "Ionic development from scratch to pro..",
+  "categoryId": {
+    "$oid": "60f930b81868ca28705a5265"
+  },
+  "subCategoryId": {
+    "$oid": "60f9512be1d68b370cbf757c"
+  },
+  "sectionId": {
+    "$oid": "610248c598729219e428c89a"
+  },
+  "description": "You can learn full  ionic course from scratch to pro level coding ",
+  "imageFile": "http://30ba99d25504.ngrok.io/1629375468902-office.jpg",
+  "videoFile": "http://30ba99d25504.ngrok.io/1629375473744-file_example_MP4_480_1_5MG.mp4",
+  "createdBy": {
+    "$oid": "60f94652fee34c36b4a52244"
+  },
+  "qna": [],
+  "createdAt": {
+    "$date": "2021-08-19T12:18:00.614Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-23T05:28:08.480Z"
+  },
+  "__v": 10
+}]

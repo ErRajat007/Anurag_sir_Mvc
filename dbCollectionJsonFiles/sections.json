@@ -1,0 +1,361 @@
+[{
+  "_id": {
+    "$oid": "6102487e98729219e428c888"
+  },
+  "categoryId": {
+    "$oid": "60f930b81868ca28705a5265"
+  },
+  "subCategoryId": {
+    "$oid": "60f9512be1d68b370cbf757c"
+  },
+  "sectionName": "React Native",
+  "createdAt": {
+    "$date": "2021-07-29T06:19:42.408Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T06:19:42.408Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6102489498729219e428c88e"
+  },
+  "categoryId": {
+    "$oid": "60f930b81868ca28705a5265"
+  },
+  "subCategoryId": {
+    "$oid": "60f9512be1d68b370cbf757c"
+  },
+  "sectionName": "Android development",
+  "createdAt": {
+    "$date": "2021-07-29T06:20:04.844Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T06:20:04.844Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610248be98729219e428c894"
+  },
+  "categoryId": {
+    "$oid": "60f930b81868ca28705a5265"
+  },
+  "subCategoryId": {
+    "$oid": "60f95139e1d68b370cbf7581"
+  },
+  "sectionName": "Node-JS",
+  "createdAt": {
+    "$date": "2021-07-29T06:20:46.529Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T06:20:46.529Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610248c598729219e428c89a"
+  },
+  "categoryId": {
+    "$oid": "60f930b81868ca28705a5265"
+  },
+  "subCategoryId": {
+    "$oid": "60f95139e1d68b370cbf7581"
+  },
+  "sectionName": "React-JS",
+  "createdAt": {
+    "$date": "2021-07-29T06:20:53.713Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T06:20:53.713Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610248f398729219e428c8a0"
+  },
+  "categoryId": {
+    "$oid": "610123486d57cb526417dee0"
+  },
+  "subCategoryId": {
+    "$oid": "6102305341ebee261c3e7f86"
+  },
+  "sectionName": "HTML",
+  "createdAt": {
+    "$date": "2021-07-29T06:21:39.745Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T06:21:39.745Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610248f998729219e428c8a6"
+  },
+  "categoryId": {
+    "$oid": "610123486d57cb526417dee0"
+  },
+  "subCategoryId": {
+    "$oid": "6102305341ebee261c3e7f86"
+  },
+  "sectionName": "CSS",
+  "createdAt": {
+    "$date": "2021-07-29T06:21:45.855Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T06:21:45.855Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6102492f98729219e428c8b9"
+  },
+  "categoryId": {
+    "$oid": "610123486d57cb526417dee0"
+  },
+  "subCategoryId": {
+    "$oid": "6102305b41ebee261c3e7f8b"
+  },
+  "sectionName": "Digital Painiting",
+  "createdAt": {
+    "$date": "2021-07-29T06:22:39.742Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T06:22:39.742Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6102493f98729219e428c8bf"
+  },
+  "categoryId": {
+    "$oid": "610123486d57cb526417dee0"
+  },
+  "subCategoryId": {
+    "$oid": "6102305b41ebee261c3e7f8b"
+  },
+  "sectionName": "VFX",
+  "createdAt": {
+    "$date": "2021-07-29T06:22:55.602Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T06:22:55.602Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6102496b98729219e428c8c5"
+  },
+  "categoryId": {
+    "$oid": "61022faf41ebee261c3e7f79"
+  },
+  "subCategoryId": {
+    "$oid": "6102308841ebee261c3e7f90"
+  },
+  "sectionName": "Youtube Marketing",
+  "createdAt": {
+    "$date": "2021-07-29T06:23:39.268Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T06:23:39.268Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6102497198729219e428c8cb"
+  },
+  "categoryId": {
+    "$oid": "61022faf41ebee261c3e7f79"
+  },
+  "subCategoryId": {
+    "$oid": "6102308841ebee261c3e7f90"
+  },
+  "sectionName": "Email Marketing",
+  "createdAt": {
+    "$date": "2021-07-29T06:23:45.980Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T06:23:45.980Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6102499998729219e428c8de"
+  },
+  "categoryId": {
+    "$oid": "61022faf41ebee261c3e7f79"
+  },
+  "subCategoryId": {
+    "$oid": "6102309741ebee261c3e7f95"
+  },
+  "sectionName": "Facebook Marketing",
+  "createdAt": {
+    "$date": "2021-07-29T06:24:25.346Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T06:24:25.346Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610249a198729219e428c8e4"
+  },
+  "categoryId": {
+    "$oid": "61022faf41ebee261c3e7f79"
+  },
+  "subCategoryId": {
+    "$oid": "6102309741ebee261c3e7f95"
+  },
+  "sectionName": "Instagram Marketing",
+  "createdAt": {
+    "$date": "2021-07-29T06:24:33.301Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T06:24:33.301Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610249d298729219e428c8ea"
+  },
+  "categoryId": {
+    "$oid": "61022fca41ebee261c3e7f7d"
+  },
+  "subCategoryId": {
+    "$oid": "610230bd41ebee261c3e7f9a"
+  },
+  "sectionName": "Sketching",
+  "createdAt": {
+    "$date": "2021-07-29T06:25:22.199Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T06:25:22.199Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610249d998729219e428c8f0"
+  },
+  "categoryId": {
+    "$oid": "61022fca41ebee261c3e7f7d"
+  },
+  "subCategoryId": {
+    "$oid": "610230bd41ebee261c3e7f9a"
+  },
+  "sectionName": "Painting",
+  "createdAt": {
+    "$date": "2021-07-29T06:25:29.690Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T06:25:29.690Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61024a0198729219e428c8f6"
+  },
+  "categoryId": {
+    "$oid": "61022fca41ebee261c3e7f7d"
+  },
+  "subCategoryId": {
+    "$oid": "610230c941ebee261c3e7f9f"
+  },
+  "sectionName": "Hair Styling",
+  "createdAt": {
+    "$date": "2021-07-29T06:26:09.274Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T06:26:09.274Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61024a0d98729219e428c8fc"
+  },
+  "categoryId": {
+    "$oid": "61022fca41ebee261c3e7f7d"
+  },
+  "subCategoryId": {
+    "$oid": "610230c941ebee261c3e7f9f"
+  },
+  "sectionName": "Nail Art",
+  "createdAt": {
+    "$date": "2021-07-29T06:26:21.819Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T06:26:21.819Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61024a4198729219e428c902"
+  },
+  "categoryId": {
+    "$oid": "61022fdd41ebee261c3e7f81"
+  },
+  "subCategoryId": {
+    "$oid": "610230ea41ebee261c3e7fa7"
+  },
+  "sectionName": "Music Composition",
+  "createdAt": {
+    "$date": "2021-07-29T06:27:13.478Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T06:27:13.478Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61024a4e98729219e428c908"
+  },
+  "categoryId": {
+    "$oid": "61022fdd41ebee261c3e7f81"
+  },
+  "subCategoryId": {
+    "$oid": "610230ea41ebee261c3e7fa7"
+  },
+  "sectionName": "Reading Music",
+  "createdAt": {
+    "$date": "2021-07-29T06:27:26.313Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T06:27:26.313Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61024a7498729219e428c90e"
+  },
+  "categoryId": {
+    "$oid": "61022fdd41ebee261c3e7f81"
+  },
+  "subCategoryId": {
+    "$oid": "610230f241ebee261c3e7fac"
+  },
+  "sectionName": "DJ",
+  "createdAt": {
+    "$date": "2021-07-29T06:28:04.377Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T06:28:04.377Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61024a7d98729219e428c914"
+  },
+  "categoryId": {
+    "$oid": "61022fdd41ebee261c3e7f81"
+  },
+  "subCategoryId": {
+    "$oid": "610230f241ebee261c3e7fac"
+  },
+  "sectionName": "PRO Tools",
+  "createdAt": {
+    "$date": "2021-07-29T06:28:13.607Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T06:28:13.607Z"
+  },
+  "__v": 0
+}]

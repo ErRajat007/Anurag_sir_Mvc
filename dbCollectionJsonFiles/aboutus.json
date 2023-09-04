@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "610a736642be2e56f8343bd3"
+  },
+  "admin": {
+    "$oid": "60f91d930b3382366048d683"
+  },
+  "description": "The city of Indore was discovered by Rao Nandlal Chaudhary in mid-1710",
+  "createdAt": {
+    "$date": "2021-08-04T11:00:54.351Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-04T11:00:54.351Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610bc305f77d8f524c2aad33"
+  },
+  "admin": {
+    "$oid": "60f91fd99f6ec416ec10a071"
+  },
+  "description": "The city of Indore was discovered by Rao Nandlal Chaudhary in mid-1710",
+  "createdAt": {
+    "$date": "2021-08-05T10:52:53.845Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-06T04:45:32.066Z"
+  },
+  "__v": 0
+}]

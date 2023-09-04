@@ -1,0 +1,337 @@
+[{
+  "_id": {
+    "$oid": "611e5184ebf6931a4406fc0a"
+  },
+  "duration": 0,
+  "chapterId": {
+    "$oid": "611e49371507ec378856db31"
+  },
+  "courseId": {
+    "$oid": "611ddd9a67b2651520388df1"
+  },
+  "lectureTitle": "I am testing for new lecture",
+  "description": "here is a big description of the chapter which may contain some details and datata",
+  "videoPath": "http://2d6373065122.ngrok.io/1629376885578-file_example_MP4_480_1_5MG.mp4",
+  "createdAt": {
+    "$date": "2021-08-19T12:41:40.953Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-19T12:41:40.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "611f356fb72f00aab9ecfdcb"
+  },
+  "duration": 0,
+  "chapterId": {
+    "$oid": "610277396205042ba084027f"
+  },
+  "courseId": {
+    "$oid": "60ffe686c2b1462fb4832cd1"
+  },
+  "lectureTitle": "Lecture First",
+  "description": "first test lecture",
+  "videoPath": "http://localhost:3000/1627551587592-SampleVideo_1280x720_1mb.mp4",
+  "createdAt": {
+    "$date": "2021-07-29T09:39:47.609Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T09:39:47.609Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "611f356fb72f00aab9ecfdce"
+  },
+  "duration": 0,
+  "chapterId": {
+    "$oid": "610277396205042ba084027f"
+  },
+  "courseId": {
+    "$oid": "60ffe686c2b1462fb4832cd1"
+  },
+  "lectureTitle": "Lecture First",
+  "description": "first test lecture",
+  "videoPath": "http://localhost:3000/1627551587592-SampleVideo_1280x720_1mb.mp4",
+  "createdAt": {
+    "$date": "2021-07-29T09:39:47.609Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T09:39:47.609Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "611f5857b80cfd4164f589e3"
+  },
+  "duration": 0,
+  "chapterId": {
+    "$oid": "611e49371507ec378856db31"
+  },
+  "courseId": {
+    "$oid": "611ddd9a67b2651520388df1"
+  },
+  "lectureTitle": "new chapyer and lecure from test",
+  "description": "jkldfgj gegwelrg jergg  lkeltlketmkg ",
+  "videoPath": "http://2cca29f7bece.ngrok.io/1629444152278-file_example_MP4_480_1_5MG.mp4",
+  "createdAt": {
+    "$date": "2021-08-20T07:23:03.195Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-20T07:23:03.195Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "611f59d294683a00f41e12c3"
+  },
+  "duration": 0,
+  "chapterId": {
+    "$oid": "611f595db80cfd4164f589f9"
+  },
+  "courseId": {
+    "$oid": "611ddd9a67b2651520388df1"
+  },
+  "lectureTitle": "new lecture chapter 2",
+  "description": "iu yuoiuopi uouoiupo iou ououiojkj;lk jlkjlk ljlkj kjlkjl j lk",
+  "videoPath": "http://2cca29f7bece.ngrok.io/1629444537928-file_example_MP4_480_1_5MG.mp4",
+  "createdAt": {
+    "$date": "2021-08-20T07:29:22.032Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-20T07:29:22.032Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "611f5a83e646fa4548400f03"
+  },
+  "duration": 0,
+  "chapterId": {
+    "$oid": "611f595db80cfd4164f589f9"
+  },
+  "courseId": {
+    "$oid": "611ddd9a67b2651520388df1"
+  },
+  "lectureTitle": "test new ",
+  "description": "sfdfsdf fgfghgh 46756 hghhj  nbm jyuyb ui lmnmcv y ",
+  "videoPath": "http://2cca29f7bece.ngrok.io/1629444689954-file_example_MP4_480_1_5MG.mp4",
+  "createdAt": {
+    "$date": "2021-08-20T07:32:19.643Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-20T07:32:19.643Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "611f5ab3e646fa4548400f0b"
+  },
+  "duration": 0,
+  "chapterId": {
+    "$oid": "611f595db80cfd4164f589f9"
+  },
+  "courseId": {
+    "$oid": "611ddd9a67b2651520388df1"
+  },
+  "lectureTitle": "test new one two",
+  "description": "sfdfsdf fgfghgh 46756 hghhj  nbm jyuyb ui lmnmcv y ",
+  "videoPath": "http://2cca29f7bece.ngrok.io/1629444775792-file_example_MP4_480_1_5MG.mp4",
+  "createdAt": {
+    "$date": "2021-08-20T07:33:07.693Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-20T07:33:07.693Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "611f5b06e646fa4548400f20"
+  },
+  "duration": 0,
+  "chapterId": {
+    "$oid": "611f596eb80cfd4164f58a00"
+  },
+  "courseId": {
+    "$oid": "611ddd9a67b2651520388df1"
+  },
+  "lectureTitle": "basics of chapter 3",
+  "description": "df rw d sfdfg eyrhfgh gfhf gretrtdfd ffdgdf rter gfd",
+  "videoPath": "http://2cca29f7bece.ngrok.io/1629444842762-file_example_MP4_480_1_5MG.mp4",
+  "createdAt": {
+    "$date": "2021-08-20T07:34:30.292Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-20T07:34:30.292Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "611f5b4cd8735c3fccb7c7f4"
+  },
+  "duration": 0,
+  "chapterId": {
+    "$oid": "611f596eb80cfd4164f58a00"
+  },
+  "courseId": {
+    "$oid": "611ddd9a67b2651520388df1"
+  },
+  "lectureTitle": "Lecture 1 of chapter 3",
+  "description": "df rw d sfdfg eyrhfgh gfhf gretrtdfd ffdgdf rter gfd",
+  "videoPath": "http://2cca29f7bece.ngrok.io/1629444921024-file_example_MP4_480_1_5MG.mp4",
+  "createdAt": {
+    "$date": "2021-08-20T07:35:40.146Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-20T07:35:40.146Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6123309b1ad37b1d8868bf3e"
+  },
+  "duration": 0,
+  "chapterId": {
+    "$oid": "611e4c9b8558213dd8012384"
+  },
+  "courseId": {
+    "$oid": "611e4bf88558213dd801235a"
+  },
+  "lectureTitle": "new lwcture",
+  "description": "dewscription here ",
+  "videoPath": "http://a898-116-75-212-240.ngrok.io/1629696141665-file_example_MP4_480_1_5MG.mp4",
+  "createdAt": {
+    "$date": "2021-08-23T05:22:35.224Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-23T05:22:35.224Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612330b41ad37b1d8868bf46"
+  },
+  "duration": 0,
+  "chapterId": {
+    "$oid": "611e4c9b8558213dd8012384"
+  },
+  "courseId": {
+    "$oid": "611e4bf88558213dd801235a"
+  },
+  "lectureTitle": "new lwcture sdf sd ",
+  "description": "dewscription here test",
+  "videoPath": "http://a898-116-75-212-240.ngrok.io/1629696171779-file_example_MP4_480_1_5MG.mp4",
+  "createdAt": {
+    "$date": "2021-08-23T05:23:00.979Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-23T05:23:00.979Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612330f91ad37b1d8868bf80"
+  },
+  "duration": 0,
+  "chapterId": {
+    "$oid": "612330c91ad37b1d8868bf67"
+  },
+  "courseId": {
+    "$oid": "611e4bf88558213dd801235a"
+  },
+  "lectureTitle": "testing 1",
+  "description": "tesing for chapter ",
+  "videoPath": "http://a898-116-75-212-240.ngrok.io/1629696243639-file_example_MP4_480_1_5MG.mp4",
+  "createdAt": {
+    "$date": "2021-08-23T05:24:09.252Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-23T05:24:09.252Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6123310e1ad37b1d8868bf88"
+  },
+  "duration": 0,
+  "chapterId": {
+    "$oid": "612330c91ad37b1d8868bf67"
+  },
+  "courseId": {
+    "$oid": "611e4bf88558213dd801235a"
+  },
+  "lectureTitle": "testing 2",
+  "description": "tesing for chapter ",
+  "videoPath": "http://a898-116-75-212-240.ngrok.io/1629696264334-file_example_MP4_480_1_5MG.mp4",
+  "createdAt": {
+    "$date": "2021-08-23T05:24:30.148Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-23T05:24:30.148Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612331451ad37b1d8868bf9c"
+  },
+  "duration": 0,
+  "chapterId": {
+    "$oid": "612330d31ad37b1d8868bf6e"
+  },
+  "courseId": {
+    "$oid": "611e4bf88558213dd801235a"
+  },
+  "lectureTitle": "testing chapter 3 lecture 1",
+  "description": "test description ",
+  "videoPath": "http://a898-116-75-212-240.ngrok.io/1629696317056-file_example_MP4_480_1_5MG.mp4",
+  "createdAt": {
+    "$date": "2021-08-23T05:25:25.254Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-23T05:25:25.254Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612331571ad37b1d8868bfa4"
+  },
+  "duration": 0,
+  "chapterId": {
+    "$oid": "612330d31ad37b1d8868bf6e"
+  },
+  "courseId": {
+    "$oid": "611e4bf88558213dd801235a"
+  },
+  "lectureTitle": "testing chapter 3 lecture 2",
+  "description": "test description ",
+  "videoPath": "http://a898-116-75-212-240.ngrok.io/1629696338036-file_example_MP4_480_1_5MG.mp4",
+  "createdAt": {
+    "$date": "2021-08-23T05:25:43.302Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-23T05:25:43.302Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612331671ad37b1d8868bfac"
+  },
+  "duration": 0,
+  "chapterId": {
+    "$oid": "612330d31ad37b1d8868bf6e"
+  },
+  "courseId": {
+    "$oid": "611e4bf88558213dd801235a"
+  },
+  "lectureTitle": "testing chapter 3 lecture 3",
+  "description": "test description ",
+  "videoPath": "http://a898-116-75-212-240.ngrok.io/1629696355155-file_example_MP4_480_1_5MG.mp4",
+  "createdAt": {
+    "$date": "2021-08-23T05:25:59.760Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-23T05:25:59.760Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,250 @@
+[{
+  "_id": {
+    "$oid": "60f91fd99f6ec416ec10a071"
+  },
+  "otp": 924945,
+  "role": "User",
+  "fullName": "test Name",
+  "email": "hardikhghf@hiteshi.com",
+  "password": "$2b$10$BOPL.xIWs4cx81Ct78aEieOmb61DwLFo6y3ARWYO9kypDWPEZfboy",
+  "createdAt": {
+    "$date": "2021-07-22T07:35:53.555Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-25T06:00:18.886Z"
+  },
+  "__v": 0,
+  "profileImage": "http://localhost:3000/1627622765618-cross.png",
+  "biography": "biography",
+  "headline": "headline",
+  "language": "language",
+  "isInstructor": true,
+  "allowNotifications": "enable",
+  "averageRating": 0,
+  "totalReview": 0,
+  "totalStudent": 11,
+  "audiences": "No I dont have",
+  "teachingExperience": "Online",
+  "videoExperience": "I am a beginner",
+  "deviceId": "545f68be-600a-06d8-8692-760438912398",
+  "deviceType": "Android",
+  "fbId": "2305627682905422",
+  "fcmToken": "dNQVYNgTQGOZK89ksZ40Cg:APA91bGFzpQEh4-XaGnzQQxV8fPrZ-yCiXnz8cqpSA5urqOr2Zv2xDB9nSpDyD9n2f6s556iu7tt-MPfNIDTlj-fm6uiia2n6K6RtdbrewD0owTWCfORBOzdXoeheLmUCst74K9Y-QEz",
+  "googleId": "102259498744641669714"
+},{
+  "_id": {
+    "$oid": "60f9444dfee34c36b4a5223d"
+  },
+  "otp": null,
+  "role": "Admin",
+  "fullName": "arpit",
+  "email": "arpitmakvana192@gmail.com",
+  "password": "$2b$10$X8I/RczExwCK9q6QxLdkxOCSlKekj/3clkBRoQxuQVccTPXks82bS",
+  "createdAt": {
+    "$date": "2021-07-22T10:11:25.293Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-26T09:16:29.188Z"
+  },
+  "__v": 0,
+  "biography": "",
+  "headline": "",
+  "language": "",
+  "profileImage": "",
+  "isInstructor": "false",
+  "allowNotifications": "",
+  "audiences": "",
+  "averageRating": 0,
+  "fbId": "2305627682905422",
+  "googleId": "102259498744641669714",
+  "teachingExperience": "",
+  "totalReview": 0,
+  "totalStudent": 0,
+  "videoExperience": ""
+},{
+  "_id": {
+    "$oid": "60f94652fee34c36b4a52244"
+  },
+  "otp": 665513,
+  "role": "User",
+  "fullName": "Arpit Rajput",
+  "email": "test@gmail.com",
+  "password": "$2b$10$o/sSA4YXf0CAFJXcBVKhiOaemHAvYdgLXKpqWE5iBjCSpyxxthSS2",
+  "createdAt": {
+    "$date": "2021-07-22T10:20:02.020Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-02T04:29:52.882Z"
+  },
+  "__v": 0,
+  "averageRating": 5,
+  "biography": "Your biography should have at least 50 characters, links and coupon codes are not permitted.",
+  "headline": "Enginner at E-learn POC",
+  "language": "English",
+  "profileImage": "http://6bf1-27-5-40-132.ngrok.io/1629889502430-icon.png",
+  "totalReview": 2,
+  "totalStudent": 17,
+  "isInstructor": true,
+  "allowNotifications": "enable",
+  "audiences": "",
+  "teachingExperience": "",
+  "videoExperience": "",
+  "fbId": "",
+  "googleId": ""
+},{
+  "_id": {
+    "$oid": "611f68f6e40b1b06288e7090"
+  },
+  "otp": null,
+  "role": "User",
+  "profileImage": "",
+  "headline": "",
+  "biography": "",
+  "language": "",
+  "averageRating": 0,
+  "totalReview": 0,
+  "totalStudent": 0,
+  "isInstructor": true,
+  "allowNotifications": "",
+  "teachingExperience": "In person, professionally",
+  "videoExperience": "I have some knowledge",
+  "audiences": null,
+  "fullName": "testing",
+  "email": "testing@gmail.com",
+  "password": "$2b$10$c3ztEoTsgGqpoaZu1U9ZAOM47atfedCc5XlQmfISL2NgdzSumqqxe",
+  "createdAt": {
+    "$date": "2021-08-20T08:33:59.007Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-20T09:04:51.090Z"
+  },
+  "__v": 0,
+  "fcmToken": "dNQVYNgTQGOZK89ksZ40Cg:APA91bGFzpQEh4-XaGnzQQxV8fPrZ-yCiXnz8cqpSA5urqOr2Zv2xDB9nSpDyD9n2f6s556iu7tt-MPfNIDTlj-fm6uiia2n6K6RtdbrewD0owTWCfORBOzdXoeheLmUCst74K9Y-QEz"
+},{
+  "_id": {
+    "$oid": "6124dd9f38d00f5e3c62f276"
+  },
+  "otp": null,
+  "role": "User",
+  "profileImage": "",
+  "headline": "",
+  "biography": "",
+  "language": "",
+  "averageRating": 0,
+  "totalReview": 0,
+  "totalStudent": 0,
+  "isInstructor": false,
+  "allowNotifications": "",
+  "teachingExperience": "",
+  "videoExperience": "",
+  "audiences": "",
+  "deviceId": "123",
+  "deviceType": "Andriod",
+  "fcmToken": "dNQVYNgTQGOZK89ksZ40Cg:APA91bGFzpQEh4-XaGnzQQxV8fPrZ-yCiXnz8cqpSA5urqOr2Zv2xDB9nSpDyD9n2f6s556iu7tt-MPfNIDTlj-fm6uiia2n6K6RtdbrewD0owTWCfORBOzdXoeheLmUCst74K9Y-QEz",
+  "fullName": "test1",
+  "email": "test1@user.com",
+  "password": "$2b$10$hPfc5E4AG1I73bY6cVKGD.YvgSiLSaJ6SD34C1T.UYGnxvE.E4Xni",
+  "createdAt": {
+    "$date": "2021-08-24T11:53:03.855Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-24T11:53:03.855Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6125da5db4959d15e8e59abc"
+  },
+  "otp": null,
+  "role": "User",
+  "profileImage": "",
+  "headline": "",
+  "biography": "",
+  "language": "",
+  "averageRating": 0,
+  "totalReview": 0,
+  "totalStudent": 0,
+  "isInstructor": false,
+  "allowNotifications": "",
+  "teachingExperience": "",
+  "videoExperience": "",
+  "audiences": "",
+  "deviceId": "",
+  "deviceType": "",
+  "fcmToken": "dNQVYNgTQGOZK89ksZ40Cg:APA91bGFzpQEh4-XaGnzQQxV8fPrZ-yCiXnz8cqpSA5urqOr2Zv2xDB9nSpDyD9n2f6s556iu7tt-MPfNIDTlj-fm6uiia2n6K6RtdbrewD0owTWCfORBOzdXoeheLmUCst74K9Y-QEz",
+  "fbId": "testId",
+  "googleId": "",
+  "fullName": "xyz",
+  "email": "hardikjoshi@hiteshi.com",
+  "createdAt": {
+    "$date": "2021-08-25T05:51:25.307Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-25T05:51:25.307Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6125dca57d4aeb35d8722bb0"
+  },
+  "otp": null,
+  "role": "User",
+  "profileImage": "http://localhost:3000/xyz.png",
+  "headline": "",
+  "biography": "",
+  "language": "",
+  "averageRating": 0,
+  "totalReview": 0,
+  "totalStudent": 0,
+  "isInstructor": false,
+  "allowNotifications": "",
+  "teachingExperience": "",
+  "videoExperience": "",
+  "audiences": "",
+  "fbId": "",
+  "googleId": "xyz",
+  "fullName": "testName",
+  "email": "hardikjosh@hiteshi.com",
+  "createdAt": {
+    "$date": "2021-08-25T06:01:09.586Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-27T08:29:41.840Z"
+  },
+  "__v": 0,
+  "deviceId": "123",
+  "deviceType": "Andriod",
+  "fcmToken": "test token"
+},{
+  "_id": {
+    "$oid": "6125dfd1a1f6b7596039e226"
+  },
+  "otp": null,
+  "role": "User",
+  "profileImage": "http://lcoalhost:3000/xyz.png",
+  "headline": "",
+  "biography": "",
+  "language": "",
+  "averageRating": 0,
+  "totalReview": 0,
+  "totalStudent": 0,
+  "isInstructor": false,
+  "allowNotifications": "",
+  "teachingExperience": "",
+  "videoExperience": "",
+  "audiences": "",
+  "fbId": "testId",
+  "googleId": "",
+  "fullName": "xyxxz",
+  "email": "hardikj@hiteshi.com",
+  "createdAt": {
+    "$date": "2021-08-25T06:14:41.478Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-27T08:22:04.566Z"
+  },
+  "__v": 0,
+  "deviceId": "123",
+  "deviceType": "Andriod",
+  "fcmToken": "test token"
+}]
